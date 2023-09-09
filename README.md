@@ -11,6 +11,8 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiZerg)](https://github.com/KaiZerg/github-readme-stats)
   <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaiZerg&theme=nord_bright"/></a>
   <img align="right" src="https://komarev.com/ghpvc/?username=KaiZerg&color=003140">
+  [![codewars](https://www.codewars.com/users/KaiZerg/badges/large)](https://www.codewars.com/users/KaiZerg)
+  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ildar_gabitov&theme=dark)](https://github.com/KaiZerg/leetcode-stats)
 
 ## Дипломный проект
 Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
