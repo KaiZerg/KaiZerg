@@ -4,8 +4,8 @@
 
 <h3 align="left">Мой стек технологий</h3>
 <p align="left">
-	<a href="#"><img title="Java" src="icons/Java.png" width="30px"/></a>
-   <a href="#"><img title="Idea" src="icons/Intelij_IDEA.png" width="30px"/></a>
+	<a href="#"><img title="Java" src="icons/Java.png" width="50px"/></a>
+   <a href="#"><img title="Idea" src="icons/Intelij_IDEA.png" width="50px"/></a>
 	<a href="#"><img title="Gradle" src="icons/Gradle.png" width="50px"/></a>
 	<a href="#"><img title="JUnit5" src="icons/JUnit5.png" width="50px"/></a>
    <a href="#"><img title="Selenium" src="icons/Selenium.png" width="50px"/></a>
