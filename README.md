@@ -1,5 +1,6 @@
-### Добро пожаловать и привет! :cherry_blossom:
-Меня зовут Ильдар. С октября 2020 года я - инженер по тестированию программного обеспечения.</br>
+<h1 align="center">Привет! Меня зовут Ильдар
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">С октября 2020 года Я - QA Engineer</h3>
 
 <table width="100%" border='0'>
    <tr> 
@@ -52,7 +53,7 @@
 - [x] Различные файлы конфигураций для запуска тестов
 
 </br></br>
-:cherry_blossom: <a target="_blank" href="https://t.me/Ildar_gabitov">t.me/Ildar_gabitov</a>
+<a target="_blank" href="https://t.me/Ildar_gabitov">t.me/Ildar_gabitov</a>
 
 <!--
 **KaiZerg/KaiZerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
