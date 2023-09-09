@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="left">Я работаю инженером по тестированию</h3>
 
-<h3 align="left">Мой стек технологий</h3>
+<h3 align="left">Мой стек технологий:</h3>
 <p align="left">
 	<a href="#"><img title="Java" src="icons/Java.png" width="50px"/></a>
    <a href="#"><img title="Idea" src="icons/Intelij_IDEA.png" width="50px"/></a>
