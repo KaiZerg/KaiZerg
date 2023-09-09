@@ -2,12 +2,22 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="left">Я работаю инженером по тестированию</h3>
 
-<table width="100%" border='0'>
-   <tr> 
-    <tr><td width="30%" valign="bottom"><img src="/images/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
-   </tr>
-  </table>
-  </br>
+<h3 align="left">Мой стек технологий</h3>
+<p align="left">
+	<a href="#"><img title="Java" src="icons/Java.png" width="30px"/></a>
+   <a href="#"><img title="Idea" src="icons/Intelij_IDEA.png" width="30px"/></a>
+	<a href="#"><img title="Gradle" src="icons/Gradle.png" width="50px"/></a>
+	<a href="#"><img title="JUnit5" src="icons/JUnit5.png" width="50px"/></a>
+   <a href="#"><img title="Selenium" src="icons/Selenium.png" width="50px"/></a>
+	<a href="#"><img title="Selenide" src="icons/Selenide.png" width="50px"/></a>
+	<a href="#"><img title="Appium" src="icons/appium.png" width="50px"/></a>
+	<a href="#"><img title="Rest-Assured" src="icons/Rest-Assured.png" width="50px"/></a>
+	<a href="#"><img title="Allure_Report" src="icons/Allure_Report.png" width="50px"/></a>
+	<a href="#"><img title="Jenkins" src="icons/Jenkins.png" width="50px"/></a>
+	<a href="#"><img title="Selenoid" src="icons/Selenoid.png" width="50px"/></a>
+	<a href="#"><img title="Allure Test Ops" src="icons/AllureTestOps.png" width="50px"/></a>
+   <a href="#"><img title="Jira" src="icons/Jira.png" width="50px"/></a>
+</p>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiZerg)](https://github.com/KaiZerg/github-readme-stats)
   <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaiZerg&theme=nord_bright"/></a>
