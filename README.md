@@ -26,7 +26,7 @@
  <!---
   [![codewars](https://www.codewars.com/users/KaiZerg/badges/large)](https://www.codewars.com/users/KaiZerg)
   [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ildar_gabitov&theme=dark)](https://github.com/KaiZerg/leetcode-stats)
--->
+
 
 <h2>Примеры работ:</h2>
 
@@ -77,5 +77,6 @@
 - [x] Различные файлы конфигураций для запуска тестов
 
 </br></br>
+-->
 <a target="_blank" href="https://t.me/Ildar_gabitov">t.me/Ildar_gabitov</a>
 
