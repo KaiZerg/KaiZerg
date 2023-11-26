@@ -27,7 +27,8 @@
 </p>
 <h2 align="left">Мои проекты:</h2>
 <h3 align="left">:fire: Проект по автоматизации UI/API тестирования сайта DemoQA</h3>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KaiZerg&repo=final-project-demoqa](https://github.com/KaiZerg/final-project-demoqa)  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaizerg&repo=final-project-demoqa)](https://github.com/KaiZerg/final-project-demoqa)
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiZerg)](https://github.com/KaiZerg/github-readme-stats)
   
