@@ -35,7 +35,7 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiZerg)](https://github.com/KaiZerg/github-readme-stats)
   
   <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaiZerg&theme=nord_bright"/></a>
-  <img align="right" src="https://komarev.com/ghpvc/?username=KaiZerg&color=003140">
+  <img align="left" src="https://komarev.com/ghpvc/?username=KaiZerg&color=003140">
   
  <!---
   [![codewars](https://www.codewars.com/users/KaiZerg/badges/large)](https://www.codewars.com/users/KaiZerg)
@@ -92,5 +92,4 @@
 
 </br></br>
 -->
-<a target="_blank" href="https://t.me/Ildar_gabitov">t.me/Ildar_gabitov</a>
 
