@@ -25,8 +25,8 @@
 	<a href="https://qameta.io/"><img title="Allure Test Ops" src="icons/AllureTestOps.png" width="50px"/></a>
    <a href="https://www.atlassian.com/ru/software/jira"><img title="Jira" src="icons/Jira.png" width="50px"/></a>
 </p>
-## Мои проекты:
-### :fire: Проект по автоматизации UI/API тестирования сайта DemoQA
+<h2 align="left">Мои проекты:</h2>
+<h3 align="left">:fire: Проект по автоматизации UI/API тестирования сайта DemoQA</h3>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KaiZerg&repo=final-project-demoqa)](https://github.com/KaiZerg/final-project-demoqa)  
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiZerg)](https://github.com/KaiZerg/github-readme-stats)
