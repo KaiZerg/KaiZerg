@@ -30,6 +30,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaizerg&repo=final-project-demoqa)](https://github.com/KaiZerg/final-project-demoqa)
 
+  <h3 align="left">Моя статистика:</h3>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiZerg)](https://github.com/KaiZerg/github-readme-stats)
   
   <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaiZerg&theme=nord_bright"/></a>
