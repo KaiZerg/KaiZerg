@@ -4,19 +4,19 @@
 
 <h3 align="left">Мой стек технологий:</h3>
 <p align="left">
-	<a href="#"><img title="Java" src="icons/Java.png" width="50px"/></a>
-   <a href="#"><img title="Idea" src="icons/Intelij_IDEA.png" width="50px"/></a>
-	<a href="#"><img title="Gradle" src="icons/Gradle.png" width="50px"/></a>
-	<a href="#"><img title="JUnit5" src="icons/JUnit5.png" width="50px"/></a>
-   <a href="#"><img title="Selenium" src="icons/Selenium.png" width="50px"/></a>
-	<a href="#"><img title="Selenide" src="icons/Selenide.png" width="50px"/></a>
-	<a href="#"><img title="Appium" src="icons/appium.png" width="50px"/></a>
-	<a href="#"><img title="Rest-Assured" src="icons/Rest-Assured.png" width="50px"/></a>
-	<a href="#"><img title="Allure_Report" src="icons/Allure_Report.png" width="50px"/></a>
-	<a href="#"><img title="Jenkins" src="icons/Jenkins.png" width="50px"/></a>
-	<a href="#"><img title="Selenoid" src="icons/Selenoid.png" width="50px"/></a>
-	<a href="#"><img title="Allure Test Ops" src="icons/AllureTestOps.png" width="50px"/></a>
-   <a href="#"><img title="Jira" src="icons/Jira.png" width="50px"/></a>
+	<a href="https://www.java.com/"><img title="Java" src="icons/Java.png" width="50px"/></a>
+   <a href="https://www.jetbrains.com/idea/"><img title="Idea" src="icons/Intelij_IDEA.png" width="50px"/></a>
+	<a href="https://gradle.org/"><img title="Gradle" src="icons/Gradle.png" width="50px"/></a>
+	<a href="https://junit.org/junit5/"><img title="JUnit5" src="icons/JUnit5.png" width="50px"/></a>
+   <a href="https://www.selenium.dev/"><img title="Selenium" src="icons/Selenium.png" width="50px"/></a>
+	<a href="https://selenide.org/"><img title="Selenide" src="icons/Selenide.png" width="50px"/></a>
+	<a href="https://appium.io/docs/en/2.1/"><img title="Appium" src="icons/appium.png" width="50px"/></a>
+	<a href="https://rest-assured.io/"><img title="Rest-Assured" src="icons/Rest-Assured.png" width="50px"/></a>
+	<a href="https://github.com/allure-framework"><img title="Allure_Report" src="icons/Allure_Report.png" width="50px"/></a>
+	<a href="https://www.jenkins.io/"><img title="Jenkins" src="icons/Jenkins.png" width="50px"/></a>
+	<a href="https://aerokube.com/selenoid/"><img title="Selenoid" src="icons/Selenoid.png" width="50px"/></a>
+	<a href="https://qameta.io/"><img title="Allure Test Ops" src="icons/AllureTestOps.png" width="50px"/></a>
+   <a href="https://www.atlassian.com/ru/software/jira"><img title="Jira" src="icons/Jira.png" width="50px"/></a>
 </p>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiZerg)](https://github.com/KaiZerg/github-readme-stats)
