@@ -1,6 +1,13 @@
 <h1 align="left">Привет! Меня зовут Ильдар
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="left">Я работаю инженером по тестированию</h3>
+<h3 align="left">Связь со мной:</h3>
+<a href="https://t.me/ildar_gabitov">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+<a href="mailto:gabitov.tatarin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
 
 <h3 align="left">Мой стек технологий:</h3>
 <p align="left">
@@ -18,8 +25,12 @@
 	<a href="https://qameta.io/"><img title="Allure Test Ops" src="icons/AllureTestOps.png" width="50px"/></a>
    <a href="https://www.atlassian.com/ru/software/jira"><img title="Jira" src="icons/Jira.png" width="50px"/></a>
 </p>
-  
+## Мои проекты:
+### :fire: Проект по автоматизации UI/API тестирования сайта DemoQA
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KaiZerg&repo=final-project-demoqa)](https://github.com/KaiZerg/final-project-demoqa)  
+
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiZerg)](https://github.com/KaiZerg/github-readme-stats)
+  
   <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaiZerg&theme=nord_bright"/></a>
   <img align="right" src="https://komarev.com/ghpvc/?username=KaiZerg&color=003140">
   
