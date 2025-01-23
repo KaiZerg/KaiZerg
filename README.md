@@ -2,12 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 <h3 align="left">Я работаю инженером по тестированию</h3>
 <h3 align="left">Связь со мной:</h3>
-<a href="https://t.me/ildar_gabitov">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-<a href="mailto:gabitov.tatarin@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a>
+
 
 <h3 align="left">Мой стек технологий:</h3>
 <p align="left">
