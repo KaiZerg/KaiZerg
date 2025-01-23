@@ -1,7 +1,6 @@
 <h2 align="left">Привет! Меня зовут Ильдар
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 <h3 align="left">Я работаю инженером по тестированию</h3>
-<h3 align="left">Связь со мной:</h3>
 
 
 <h3 align="left">Мой стек технологий:</h3>
